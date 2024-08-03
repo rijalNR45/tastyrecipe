@@ -1,7 +1,44 @@
-h1{
-    text-align: center;
+body{
+    background-color: #D1D8C5;
 }
-.header{
-    color: red;
 
+.header{
+    text-align: center;
+    width: fit-content;
+    padding: 1px 5px;
+    border-radius: 25px;    
+    background-color: #DBA979;
+    position:relative;
+    left: 35%;
+    
+}
+p{
+    background-color: #AFD198;
+}
+ul,ol{
+    background-color: #AFD198;
+    margin-right: 20px;
+    /* width: fit-content; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.image{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 35%;
+}
+.sub-header{
+    font-size: 20px;
+    background-color: #C68484;
+    width: fit-content;
+    padding: 3px 10px;
+    border-radius: 10px;
+    color: #F5E6E6;
+}
+h4{
+    background-color: #ecc5c5;
+    width: fit-content;
+    padding: 3px 10px;
+    border-radius: 5px;
 }
